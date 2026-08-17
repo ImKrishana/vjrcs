@@ -1,4 +1,5 @@
 pyrotgfork==2.2.19
+pyromod
 tgcrypto
 pymongo[srv]==3.12.3
 Flask==1.1.2
